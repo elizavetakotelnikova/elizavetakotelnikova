@@ -37,4 +37,5 @@ main_technologies_and_stack:
 ]
 
 ```
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elizavetakotelnikova)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizavetakotelnikova)](https://github.com/anuraghazra/github-readme-stats)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
