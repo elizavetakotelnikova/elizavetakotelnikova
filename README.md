@@ -37,4 +37,3 @@ main_technologies_and_stack:
 ]
 
 ```
-![Snake animation](https://github.com/elizavetakotelnikova/elizavetakotelnikova/blob/output/github-contribution-grid-snake.svg)
