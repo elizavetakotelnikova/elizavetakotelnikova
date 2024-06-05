@@ -1,16 +1,40 @@
 ## Hi there 👋
 
-<!--
-**elizavetakotelnikova/elizavetakotelnikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 2nd year ITMO University student with a strong interest in Java development.
+- 📫 How to reach me: [@kotelnikova14](https://t.me/kotelnikova14)
 
-Here are some ideas to get you started:
+## About Me
+```yaml
+name: Elizaveta Kotelnikova
+located_in: Saint-Petersburg, Russia
+education:
+  [
+    "Bachelor's in Software engineering'26, ITMO University",
+  ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fields_of_interests:
+  [
+    "Java backend development",
+  ]
+
+main_technologies_and_stack:
+  [
+     "Java",
+     "PostgreSQL",
+     "Spring Framework",
+     "Hibernate",
+     "RabbitMQ",
+     "Docker",
+     "JUnit",
+     "Testcontainers",
+  ]
+
+ other_techonogies:
+[
+      "MongoDB",
+      "Golang",
+      "C#",
+]
+
+```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elizavetakotelnikova)](https://github.com/anuraghazra/github-readme-stats)
