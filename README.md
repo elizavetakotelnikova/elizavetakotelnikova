@@ -34,6 +34,7 @@ main_technologies_and_stack:
       "MongoDB",
       "Golang",
       "C#",
+      "Redis"
 ]
 
 ```
