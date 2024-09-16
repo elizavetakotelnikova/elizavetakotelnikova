@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a 3nd year ITMO University student with a strong interest in Java development.
+I am a 3rd year ITMO University student with a strong interest in Java development.
 - 📫 How to reach me: [@kotelnikova14](https://t.me/kotelnikova14)
 
 ## About Me
