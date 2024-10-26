@@ -25,8 +25,6 @@ main_technologies_and_stack:
      "Hibernate",
      "RabbitMQ",
      "Docker",
-     "JUnit",
-     "Testcontainers",
   ]
 
  other_techonogies:
