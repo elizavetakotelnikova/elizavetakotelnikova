@@ -14,17 +14,19 @@ education:
 
 fields_of_interests:
   [
-    "Java backend development",
+    "Java/Kotlin backend development"
   ]
 
 main_technologies_and_stack:
   [
      "Java",
+     "Kotlin,
      "PostgreSQL",
      "Spring Framework",
      "Hibernate",
+     "Kafka",
      "RabbitMQ",
-     "Docker",
+     "Docker"
   ]
 
  other_techonogies:
